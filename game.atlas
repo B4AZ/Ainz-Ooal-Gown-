@@ -1,158 +1,83 @@
-Sorcerer Kingdom.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationPortraits/Sorcerer Kingdom
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 
-Background.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-NationPortraits/Background
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-
-Background2.png
-size: 256, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitPortraits/Background
-  rotate: false
-  xy: 1, 1
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-
-Ainz Ooal Gown.png
-size: 790, 790
+game.png
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 LeaderIcons/Ainz Ooal Gown
   rotate: false
-  xy: 3, 3
+  xy: 4, 220
   size: 790, 790
   orig: 790, 790
   offset: 0, 0
   index: -1
-
-Ainz.png
-size: 256, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitPortraits/Ainz Ooal Gown
+NationPortraits/Background
   rotate: false
-  xy: 1, 1
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-
-Ainz3.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitIcons/Ainz Ooal Gown
-  rotate: false
-  xy: 1, 1
+  xy: 802, 382
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-
-CZ2128 Delta.png
-size: 256, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitPortraits/CZ2128 Delta
+NationPortraits/Sorcerer Kingdom
   rotate: false
-  xy: 1, 1
+  xy: 1066, 802
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Ainz Doctrine
+  rotate: false
+  xy: 802, 754
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-
-CZ2128a.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
+ReligionPortraits/Background3
+  rotate: false
+  xy: 802, 490
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ainz2
+  rotate: false
+  xy: 1066, 910
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ainz2
+  rotate: false
+  xy: 1066, 910
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/CZ2128
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/CZ2128
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ainz
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/CZ2128 Delta
   rotate: false
-  xy: 1, 1
+  xy: 112, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-
-Ainz2.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/AbsoluteUnits/Units/Ainz Ooal Gown
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/Fairline/Units/Ainz Ooal Gown
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Ainz Ooal Gown
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-
-CZ2128.png
-size: 100, 100
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/AbsoluteUnits/Units/CZ2128 Delta
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/Fairline/Units/CZ2128 Delta
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/CZ2128 Delta
-  rotate: false
-  xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-
